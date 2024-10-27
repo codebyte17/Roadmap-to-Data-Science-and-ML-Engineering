@@ -14,5 +14,3 @@ Roadmap to Data Science and Machine Learning Engineering:
 **Model Deployment:** Learn to deploy models with Flask/FastAPI, Docker, cloud platforms (AWS, GCP), and CI/CD setup.
 **Big Data & Scalability:** Intro to Spark and handling large datasets in scalable ML pipelines.
 **Projects & Case Studies:** End-to-end projects and case studies across real-world applications.
-
-token ""
