@@ -13,3 +13,6 @@ venv/
 # Logs and temporary files
 *.log
 *.tmp
+
+# my won files
+learning.txt
